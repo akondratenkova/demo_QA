@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class Filling {
+public class Form {
     private By inputFullName = By.xpath("//*[@id='userName']");
     private By inputEmail = By.xpath("//*[@id='userEmail']");
     private By inputCrtAddress = By.xpath("//*[@id='currentAddress']");
